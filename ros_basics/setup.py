@@ -32,6 +32,9 @@ setup(
             'add_ints_server = ros_basics.add_ints_server:main',
             'add_ints_client_noop = ros_basics.add_ints_client_no_oop:main',
             'add_ints_client = ros_basics.add_ints_client:main',
+            'hw_status_publisher = ros_basics.hw_status_publisher:main',
+            'battery = ros_basics.battery:main',
+            'led_panel = ros_basics.led:main',
         ],
     },
 )
