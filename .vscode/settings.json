@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/satya_ubuntu/ros2_ws/build/ros_basics",
+        "/home/satya_ubuntu/ros2_ws/install/ros_basics/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/satya_ubuntu/ros2_ws/build/ros_basics",
+        "/home/satya_ubuntu/ros2_ws/install/ros_basics/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
