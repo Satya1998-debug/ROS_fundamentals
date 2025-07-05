@@ -8,7 +8,6 @@ ROS beginner and intermediate fundamentals (Nodes, Pub-Sub, Srv-Client, Interfac
 A ROS 2 package showcasing the **core building blocks** of ROS 2 using `rclpy` (Python).   (using **ROS2 Humble**)
 
 This contains implementation as per the **Official ROS2 Documentation** and **Udemy** online courses on ROS2 (beginner + intermediate).This is still in progress, I update as I learn concurrently!!
-
 ---
 
 ## 📚 Features
