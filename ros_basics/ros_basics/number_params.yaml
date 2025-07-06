@@ -1,0 +1,9 @@
+/number_publisher1:
+  ros__parameters:
+    timer_period: 2.0
+    number: 25
+
+/number_publisher2:
+  ros__parameters:
+    timer_period: 5.0
+    number: 50
