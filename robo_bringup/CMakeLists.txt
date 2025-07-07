@@ -9,8 +9,9 @@ endif()
 find_package(ament_cmake REQUIRED)
 
 # everything we will write inside the launch directory will be installed
+# any new folder inside bringup need ro be added here with space separated names with launch
 install(DIRECTORY 
-  launch
+  launch config
   DESTINATION share/${PROJECT_NAME}
 )
 

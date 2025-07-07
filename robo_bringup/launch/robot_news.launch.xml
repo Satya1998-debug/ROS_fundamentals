@@ -1,0 +1,19 @@
+<launch>
+    <node pkg="ros_basics" exec="robot_news" name="robot_news_robot1" output="screen">
+        <param name="robot_name" value="Robot1" />
+    </node>
+    <node pkg="ros_basics" exec="robot_news" name="robot_news_robot2" output="screen">
+        <param name="robot_name" value="Robot2" />
+    </node>
+    <node pkg="ros_basics" exec="robot_news" name="robot_news_robot3" output="screen">
+        <param name="robot_name" value="Robot3" />
+    </node>
+    <node pkg="ros_basics" exec="robot_news" name="robot_news_robot4" output="screen">
+        <param name="robot_name" value="Robot4" />
+    </node>
+    <node pkg="ros_basics" exec="robot_news" name="robot_news_robot5" output="screen">
+        <param name="robot_name" value="Robot5" />
+    </node>
+    <node pkg="ros_basics" exec="smartphone" output="screen" />
+
+</launch>
