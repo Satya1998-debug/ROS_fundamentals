@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- this ill make the urdf file xacro compatible, also the robot name is not put in only parent urdf file where we include all other urdf files, not in separate individual files-->
+<robot name ="satya_robot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+
+    <xacro:include filename="common_properties.xacro"/>
+    <xacro:include filename="mobile_base.xacro"/>
+    
+    
+</robot>
